@@ -17,7 +17,6 @@
 
 .xbox.disconnected div {
     display: url(2xBigBearDisconnected.png);
-    position: absolute;
     left: 50px;
     top: 50px;
 }
