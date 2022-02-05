@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://quantifiablegaming.github.io/2xBigBearController/Base.svgz);
+    background: url(Base.svgz);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,7 +8,7 @@
 }
 
 .xbox.white {
-    background: url(https://quantifiablegaming.github.io/2xBigBearController/Base.png);
+    background: url(Base.png);
 }
 
 .xbox.disconnected {
