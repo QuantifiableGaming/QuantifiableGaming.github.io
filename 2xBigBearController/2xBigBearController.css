@@ -17,6 +17,8 @@
 
 .xbox.disconnected div {
     display: url(2xBigBearDisconnected.png);
+	height: 630px;
+    width: 750px
 }
 
 .xbox .triggers {
